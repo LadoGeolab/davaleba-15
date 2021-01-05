@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController2: UIViewController {
     
-    var image: UIImage?
+    var image: UIImage?//
     var database: [UIImage]?
     var index: Int?
 
